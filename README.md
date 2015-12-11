@@ -1,5 +1,5 @@
 # magicretry
-Magic Retry
+Magic Retry v1.0.2
 
 Refer following link for details:
 
